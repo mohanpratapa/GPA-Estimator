@@ -4,7 +4,7 @@
 
 ## Links
 
-- [Demo](https://mohanpratapa.github.io/GPA/)
+- [Demo](https://mohanpratapa.github.io/GPA-Estimator/)
 - [Source](https://github.com/mohanpratapa/GPA-Estimator)
 
 ## Requirements
