@@ -1,6 +1,6 @@
-# js-gui
+# GPA Estimator
 
-> JavaScript is a great language for writing and testing quick apps with user interaction
+> The posted link will display the 3 grades and calculate the average grade.
 
 ## Links
 
